@@ -12,3 +12,5 @@ Your app is now ready to be used in both Android and iOS devices.
 If you want to use Firebase Cloud Messaging, check the [documentation](https://firebase.flutter.dev/docs/messaging/overview/) and follow the steps to set up your FCM account with your app (no extra coding needed).
 
 This app uses data from https://github.com/dssg-pt/covid19pt-data. This data is later converted into a JSON file that is uploaded to Firebase Realtime Database and accessed through its API.
+
+Splash screen icon by [Mavadee](https://www.flaticon.com/authors/mavadee)
