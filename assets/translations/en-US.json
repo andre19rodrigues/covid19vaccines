@@ -1,0 +1,14 @@
+{
+  "dataof": "Data from",
+  "administeredvaccines": "Administered Vaccines",
+  "newdoses": "New Doses",
+  "firstdose": "First Dose",
+  "firstdosenew": "First Dose New",
+  "seconddose": "Second Dose",
+  "seconddosenew": "Second Dose New",
+  "tryagain": "Please try again later.",
+  "nointernet": "No internet connection",
+  "verifyconnection": "Please check the status of your internet connection.",
+  "close": "Close",
+  "datafrom": "by DSSG PT"
+}
