@@ -14,3 +14,5 @@ If you want to use Firebase Cloud Messaging, check the [documentation](https://f
 This app uses data from https://github.com/dssg-pt/covid19pt-data. This data is later converted into a JSON file that is uploaded to Firebase Realtime Database and accessed through its API.
 
 Splash screen icon by [Mavadee](https://www.flaticon.com/authors/mavadee)
+
+![Alt Text](https://github.com/andre19rodrigues/covid19vaccines/blob/main/demo.gif)
