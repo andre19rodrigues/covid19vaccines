@@ -15,4 +15,5 @@ This app uses data from https://github.com/dssg-pt/covid19pt-data. This data is 
 
 Splash screen icon by [Mavadee](https://www.flaticon.com/authors/mavadee)
 
-![Alt Text](https://github.com/andre19rodrigues/covid19vaccines/blob/main/demo.gif)
+
+<img src="https://github.com/andre19rodrigues/covid19vaccines/blob/main/demo.gif" width="360" height="760" />
